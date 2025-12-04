@@ -1,0 +1,6 @@
+Historical Data Analysis Summary
+Generated: 2025-11-05 17:57:06.807789
+
+Total Records: 3,938,442
+Total Symbols: 2,123
+Date Range: 2010-11-08 to 2025-11-04

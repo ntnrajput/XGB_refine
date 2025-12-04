@@ -1,0 +1,13 @@
+{
+  "train_accuracy": 0.8270289367124537,
+  "test_accuracy": 0.8276932460873687,
+  "train_auc": 0.7055910669768066,
+  "test_auc": 0.6974560605784226,
+  "test_precision": 0.6494447126991791,
+  "test_recall": 0.09036093988814055,
+  "test_f1": 0.15864824617017825,
+  "train_win_rate": 18.071932626951032,
+  "test_win_rate": 17.978325396849364,
+  "train_predicted_positives": 32196,
+  "test_predicted_positives": 8284
+}
